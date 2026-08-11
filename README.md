@@ -1,5 +1,4 @@
-# Projet NECROSIS (version pédagogique et sûre)
-
+# Projet NECROSIS 
 Objectif : Modéliser et simuler, à des fins pédagogiques et défensives, les techniques d'un "malware caméléon" sans écrire ou exécuter de code malveillant. Le dépôt fournit un simulateur inoffensif qui transforme des scripts Python bénins pour étudier l'effet des mutations sur la détection.
 
 Important — règles de sécurité et éthique
