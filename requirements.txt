@@ -1,0 +1,8 @@
+# versions recommandées
+numpy
+pandas
+scikit-learn
+matplotlib
+networkx
+jupyter
+astor

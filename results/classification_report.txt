@@ -1,0 +1,3 @@
+# Placeholder
+
+Fichier de rapport de classification placeholder. Exécute scripts/run_experiment_and_save_results.py pour générer le rapport réel.
