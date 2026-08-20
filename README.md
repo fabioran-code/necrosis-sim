@@ -20,5 +20,5 @@ Prérequis
 Utilisation rapide
 1. Cloner / créer le dépôt et copier les fichiers.
 2. Installer dépendances.
-3. Lancer la démo :
+3. Lancer :
    python scripts/run_demo.py
